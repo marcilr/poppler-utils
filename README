@@ -1,0 +1,14 @@
+README
+Created Mon 04 Apr 2022 12:17:02 PM AKDT
+Copyright (C) 2022 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+link.txt
+  Poppler PDF rendering library related links
+
+poppler-utils.txt
+  Poppler is a PDF rendering library based on the xpdf-3.0 code base.
+  https://manpages.debian.org/testing/poppler-utils/index.html
+  https://poppler.freedesktop.org/
